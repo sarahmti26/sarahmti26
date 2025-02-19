@@ -19,10 +19,6 @@ I'm a motivated Computer Science student with strong communication and critical 
 - **Encode Justice Canada Website:** My code for the [Encode Justice Canada website](https://encodejustice.ca/)
 - **Private Software Development Project:** As part of my coursework, I am designing an escape room for a virtual environment with some classmates, using Python. 
 
-### GitHub Stats
-
-![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahmti26&show_icons=true&theme=radical)
-
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmti26&layout=compact&theme=radical)
